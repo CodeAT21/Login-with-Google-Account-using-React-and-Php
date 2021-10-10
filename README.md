@@ -10,7 +10,7 @@ npm install --save react-toastify
 
 ### Demo
 
-<a href="https://youtu.be/bLbNALkzH90" rel="nofollow"> Live Demo </a>
+<a href="https://youtu.be/6Trunjao6Lk" rel="nofollow"> Live Demo </a>
 
 ### Website
 <a href="https://codeat21.com/login-with-google-account-using-react-and-php/" rel="nofollow"> Website </a>
